@@ -34,22 +34,16 @@ h3 {
         <h1>Ethan McGee</h1> 
         <h2>Freshman in Greenville, South Carolina</h2> 
          
-         <p>I am a freshman at Bob Jones University studying computer science with a 
-minor in mathematics. I work for the Computer Science department as a lab 
-monitor.</p> 
+         <p>I am a senior at Bob Jones Academy. I am planning on going to Bob Jones University and I'm planning on taking a dual major with business and ministry. </p> 
          <p> 
             I enjoy participating in community outreach events, and I am active in my 
-local church: Southside Baptist Church of Gaffney, SC.  I teach Sunday School for the 
-College &amp; Career group and I run the Sound / Video Projection System during 
-services.  I also drive the church bus for weekend activities. 
+local church: Morningside Baptist Church.  I lead music in youth group. &amp; I like to help out in our church in lots of activities. The Senior Saints Banquet is a great opportunity to serve and to help fund our mission trips during the summer.  
          </p>  
          <p> 
-            I also enjoy running / hiking as well as a good book. 
+            I love video games, hiking, and my favorite author is Brandon Sanderson.
          </p> 
          
         <h3>EDUCATION</h3> 
-        Computer Science<br /> 
-        Bob Jones University 
     </div> 
             
 </body> 
