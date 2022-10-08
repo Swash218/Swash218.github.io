@@ -31,8 +31,8 @@ h3 {
 </head>     
 <body> 
     <div id="content"> 
-        <h1>Ethan McGee</h1> 
-        <h2>Freshman in Greenville, South Carolina</h2> 
+        <h1>Stephen Washer</h1> 
+        <h2>Senior in highschool in Greenville, South Carolina</h2> 
          
          <p>I am a senior at Bob Jones Academy. I am planning on going to Bob Jones University and I'm planning on taking a dual major with business and ministry. </p> 
          <p> 
