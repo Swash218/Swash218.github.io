@@ -38,7 +38,6 @@ h3 {
          <p> 
             I enjoy participating in community outreach events, and I am active in my 
 local church: Morningside Baptist Church.  I lead music in youth group. &amp; I like to help out in our church in lots of activities. The Senior Saints Banquet is a great opportunity to serve and to help fund our mission trips during the summer.  
-         </p>  
          <p> 
             I love video games, hiking, and my favorite author is Brandon Sanderson.
          </p> 
